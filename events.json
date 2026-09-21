@@ -1,0 +1,26 @@
+[
+  {
+    "name": "microsoft/vscode",
+    "description": "Visual Studio Code is a lightweight but powerful source code editor.",
+    "url": "https://github.com/microsoft/vscode",
+    "starredAt": "2026-09-18"
+  },
+  {
+    "name": "vercel/next.js",
+    "description": "The React framework for the web.",
+    "url": "https://github.com/vercel/next.js",
+    "starredAt": "2026-09-12"
+  },
+  {
+    "name": "github/docs",
+    "description": "The open-source repo for GitHub's documentation.",
+    "url": "https://github.com/github/docs",
+    "starredAt": "2026-09-05"
+  },
+  {
+    "name": "sindresorhus/awesome",
+    "description": "A curated list of awesome lists.",
+    "url": "https://github.com/sindresorhus/awesome",
+    "starredAt": "2026-08-28"
+  }
+]
